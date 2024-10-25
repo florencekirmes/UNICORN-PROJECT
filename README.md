@@ -1,24 +1,24 @@
-Unicorn Company
+# Unicorn Company
 
-Thriving for business growth
+## Thriving for business growth
 
-Business Challenges & Data Report
+### Business Challenges & Data Report
 For all steps taken by the DA team, a consistent overview of all steps taken during the data exploration and data explanation are represented on the following pages.
 So make sure to read even more insights than just a one-pager 🦄 | We created also two Tableau Dashboards to guarantee a holistic overview (make sure to check it out)
 
 
-Business Challenge: Overview Sheet
+## Business Challenge: Overview Sheet
 Data Analysis: Overview Steps
 Data Explanation: Main Insights and Recommendations
 
 Link to Google Colab SQL Queries: Google Colab Unicorn Project.ipynb
 Link to Google Sheet Data analysis: Unicorn_dataset_combined
 
-Business Scenario:
+## Business Scenario:
  Identifying growth potentials for customer segments and product main categories in geographical regions.
 
 
-Business Challenge: Overview Sheet
+## Business Challenge: Overview Sheet
 
 Where we are
 
@@ -27,28 +27,28 @@ The online sector has been slowly eating up market share in the past two decades
 Online shopping now dominates a major part of the retail industry
 E-commerce platforms - like Unicorn -  allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items
 
-Where we want to be
+#### Where we want to be
 
 Mid-Term and Long-Term Business Goal Unicorn: 
 Unicorn is a family business and is owned by 2 stakeholders who are very invested in their business
 
 Unicorn is seeking Mid-Term and Long-Term Business growth by increasing its company's size (e.g., expanding its data analytics department), revenue, market share, and profitability over time. Business Growth can also be typically achieved by developing new products or services, which, however, is excluded concerning the business model in the present analysis.
 
-What we have to achieve
+#### What we have to achieve
 
-Challenge & Analysis Recommendations:
+#### Challenge & Analysis Recommendations:
 Unicorn is aiming to employ strategies to increase market share (= increase of total sales in relation to total industry sales) as well as a higher profit margin, and an increasing purchases-to-sales ratio to guarantee its business's profitability
 
-Analysis goals: 
+### Analysis goals: 
 → Identifying market opportunities (based on sales regions, cities and/or states) with lower market share 
 → Identifying relevant customer segments (based on sales & regions, purchase behavior) to increase customer demands, hence up-selling opportunities
 → Identifying profitable product segments (high-profit margin, lower cost/discount) to increase both margin and product sales 
 →  Identifying and excluding weak areas (including low-margin products, sales region and customer segments) to reduce the risk of stagnation and market loss
-Data Analysis: Overview Steps
+#### Data Analysis: Overview Steps
 
 Unicorn is aiming to employ strategies to increase market share (= increase of total sales in relation to total industry sales) as well as a higher profit margin, and an increasing purchases-to-sales ratio to guarantee its business's profitability.
 
-The Data Analytics Team is focusing on three key parameters:
+##### The Data Analytics Team is focusing on three key parameters:
 
 Analyzing the overall growth rate of the unicorn business to estimate business profitability & sales over time. 
 Identifying potential market share opportunities (by customer penetration/increasing customer demand).
@@ -57,10 +57,10 @@ Up-selling opportunities for specific product categories/segments.
 Those three key parameters aim to estimate future growth potential 
 Stakeholder choice: Growth Hacking Team 
 
-Please note: As we focus on growth rate opportunities using the key metrics ‘Sales’ & ‘Profits’, the metric ‘Costs’ (Sales - Margin) is excluded from this specific analysis. 
+###### Please note: As we focus on growth rate opportunities using the key metrics ‘Sales’ & ‘Profits’, the metric ‘Costs’ (Sales - Margin) is excluded from this specific analysis. 
 The DA team has too little information about how the company's costs (fixed and current assets) are distributed to provide adequate recommendations for possible cost reductions. Nevertheless, cost reduction options would have a direct possible impact on the profit margin, hence Unicorn's business rentability. 
 
-Step 1: Data Exploration
+### Step 1: Data Exploration
 
 Relevant Dimensions
 Relevant Metrics
@@ -80,7 +80,7 @@ Profit Margin
 Average Order Value
 
 
-Step 2: Data Explanation
+### Step 2: Data Explanation
 
 The Data Explanation will cover combined insights for our chosen Stakeholder, including recommendations on which customers, markets, and products are mostly likely relevant for Unicorns’ long-term business growth 
 
@@ -95,7 +95,7 @@ The DA team + Growth Hacking may also explore up-selling and cross-selling possi
 
 Note: Cross-selling opportunities could be investigated by exploring order behavior by customer segment and product (main) category: This will be more likely reachable by comparing sales to category and sharing first recommendations on cross-selling 
 
-Data Explanation: Main Insights and Recommendations
+### Data Explanation: Main Insights and Recommendations
 
 Customer Growth Strategy ⬆:
 Business Growth Strategies are directly linked to Customer Acquisition and Retention Programs
@@ -123,7 +123,7 @@ Consumer & Corporate ⬆ | Home Office - stable, but little market ⬆
 Consumer & Corporate Segment are the main drivers, both in Sales & Profit 
 Consumer Segment is the highest sales driver across all segments and categories, constantly above average sales (total sales 1,168,676$), making 50% of companies’ total sale
 
-West Region:  Hidden Sales opportunities for the Office Supplies Category with higher profit margins for the Consumer & Corporate Customer Segment
+### West Region:  Hidden Sales opportunities for the Office Supplies Category with higher profit margins for the Consumer & Corporate Customer Segment
 
 Even though Sales are high in Technology & Furniture, the most profitable Product Category is Office Supplies (Grand Profit Total of 52,596$) > Market Shares are still low, so potential Growth Opportunities in a non-saturated market sector given  
 
